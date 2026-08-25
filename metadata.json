@@ -1,0 +1,6 @@
+{
+  "name": "brew.nyc",
+  "description": "Premier New York City billiards playroom, craft beer taproom, and social lounge with live table booking, interactive floor plan, artisanal drinks menu, and live match scorekeeper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
